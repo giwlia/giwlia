@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=OLA,+ME+CHAMO+===+Giulia+Santana;EU+ESTUDO+===+PROGRAMAÇÃO+;BEM+VINDO+:%29)](https://git.io/typing-svg)
  
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=igorrzinho&theme=xcode" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=giwlia&theme=xcode" />
 </div> 
  
 <!-- ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=igorrzinho&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ccc&text_color=eee&bg_color=444" alt="igorrzinho github stats" /> 
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=giwlia&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ccc&text_color=eee&bg_color=444" alt="giwlia github stats" /> 
  
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrzinho&layout=compact&hide_border=true&title_color=fff&text_color=eee&bg_color=444" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giwlia&layout=compact&hide_border=true&title_color=fff&text_color=eee&bg_color=444" />
 </div>
 
 <div align="center" width="90%">
@@ -35,11 +35,11 @@
 ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;</div>
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorrzinho&theme=black-ice&hide_border=true&stroke=000&background=444&ring=888&fire=eee&currStreakLabel=fff" alt="igorrzinho" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=giwlia&theme=black-ice&hide_border=true&stroke=000&background=444&ring=888&fire=eee&currStreakLabel=fff" alt="giwlia" /></div>
 
 <div align="center">
  
- ![Snake animation](https://github.com/igorrzinho/igorrzinho/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/giwlia/giwlia/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444&height=120&section=footer"/>
